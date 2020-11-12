@@ -10,7 +10,7 @@
 
 # ~~破解二进制文件下载地址：[release](https://github.com/RManLuo/crack-soga-v2ray/releases)~~
 
-# 使用教程
+# 使用教程 (relase已删除)
 
 ## 启用破解
 
